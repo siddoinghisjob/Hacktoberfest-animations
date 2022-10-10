@@ -2,6 +2,7 @@
 
 window.animations = [
 	{ name: 'Animadeu', author: 'Amad3eu' },
+        { name: 'ZoomInZoomOut', author: 'siddoinghisjob' },
 	{ name: 'Anubhav-developerMation', author: 'Anubhav-developr' },
 	{ name: 'aberration', author: 'cnsumner' },
 	{ name: 'aesthetic', author: 'ImShivraj' },
@@ -379,7 +380,6 @@ window.animations = [
 	{ name: 'x-ray', author: 'jomifepe' },
 	{ name: 'z-dance', author: 'vishnuxx' },
 	{ name: 'zeno', author: 'AnshuPathak-88825/' },
-	{ name: 'ZoomInZoomOut', author: 'siddoinghisjob' },
 	{ name: 'zoom-in-out', author: 'Harvansh-1234' },
 	{ name: 'zoomIn', author: 'MansiNegi27' },
 	{ name: 'zoomInLeft', author: 'fernandosutter' },
